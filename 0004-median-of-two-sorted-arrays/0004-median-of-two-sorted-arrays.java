@@ -12,7 +12,7 @@ public class Solution {
         if(i<m&& m!=0){
         res[n+i]=nums2[i];
         }
-        i++;
+     i++;
         }
 
       
