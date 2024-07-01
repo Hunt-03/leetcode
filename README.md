@@ -9,10 +9,12 @@ Disclaimer:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hunt-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hunt-03/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -26,4 +28,8 @@ Disclaimer:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Hunt-03/leetcode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hunt-03/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
