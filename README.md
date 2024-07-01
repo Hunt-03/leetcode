@@ -14,4 +14,16 @@ Disclaimer:
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Hunt-03/leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Hunt-03/leetcode/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Hunt-03/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Hunt-03/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
