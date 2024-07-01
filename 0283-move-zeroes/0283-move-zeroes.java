@@ -15,6 +15,6 @@ class Solution {
 
            
         }
-
+System.gc();
     }
 }
